@@ -211,6 +211,6 @@ These insights were delivered to the **Offerbeez business team** to support **st
 ## 👤 Author & Contact
 - **Name:** Rehman Khan k
 - **Degree:** Master of Computer Applications (MCA)  
-- **Role:** Data Analyst | Business Analyst 
+- **Role:** Aspiring Data Analyst | Business Analyst 
 - **Email:** rehman020219@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/rehman-khan1919
