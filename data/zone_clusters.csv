@@ -1,0 +1,5 @@
+ZONE,Restaurant,Bakery,Pharmacy,Cafe,Fashion,Educational,Gym,Salon,Clinic,Electronics,Finance,Grocery,cluster
+East,692,624,532,531,642,640,432,515,543,441,385,272,2
+North,1057,957,905,847,1017,1006,626,839,789,776,671,373,0
+South,852,773,690,631,797,763,573,666,645,619,552,309,2
+West,746,652,616,514,0,0,416,0,0,0,0,0,1
